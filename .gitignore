@@ -1,0 +1,8 @@
+build/
+out/
+.vs/
+.vscode/
+*.user
+*.suo
+*.vcxproj.user
+.DS_Store
